@@ -1,8 +1,9 @@
 Aloha!
 Sou Cecília,
+☁️ Salesforce CORE Functional Analyst ☁️ Salesforce Community Leader ☁️ Instructor PMC - Salesforce Administrator ☁️
 
-- 🔭 Analista TI
-- 🌱 Salesforce Field Service
+- 🔭 TI
+- 🌱 Salesforce  | Cloud Sales e Service  | QA
 - 👯 Onboarding 
 - 🤔 Busco conhecimento em DevOps
 - 💬 Tecnologias
