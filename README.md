@@ -1,13 +1,15 @@
 Aloha!
-Sou Cecília,
-☁️ Salesforce CORE Functional Analyst ☁️ Salesforce Community Leader ☁️ Instructor PMC - Salesforce Administrator ☁️
+Sou Maria Cecília,
+☁️ Salesforce CORE Functional Analyst ☁️
+☁️ Salesforce Community Leader Women in Tech, São Paulo ☁️
+☁️ Instructor PMC - Salesforce Administrator ☁️
 
 - 🔭 TI
 - 🌱 Salesforce  | Cloud Sales e Service  | QA
 - 👯 Onboarding 
 - 🤔 Busco conhecimento em DevOps
 - 💬 Tecnologias
-- ⚡ CRM | Salesforce | AI | IoT | 5g | Edge
+- ⚡ CRM | Salesforce | AI | IoT 
 
 <div>
   <a href="https://github.com/CeciMaya">
