@@ -1,7 +1,10 @@
 Aloha!
 Sou Maria Cecília,
+
 ☁️ Salesforce CORE Functional Analyst ☁️
+
 ☁️ Salesforce Community Leader Women in Tech, São Paulo ☁️
+
 ☁️ Instructor PMC - Salesforce Administrator ☁️
 
 - 🔭 TI
