@@ -25,7 +25,7 @@ Sou Cecília,
 </div>
  <div>
   <a href = "mailto:mariacecilia.brasil.mg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-cecília-silva-37593632/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/maria-cecília-silva-37593632/-45875016a](https://www.linkedin.com/in/maria-cec%C3%ADlia-silva-37593632/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
  
    ![Snake animation](https://github.com/CeciMaya/CeciMaya/blob/output/github-contribution-grid-snake.svg)
